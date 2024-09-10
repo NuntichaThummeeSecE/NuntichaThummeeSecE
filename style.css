@@ -5,9 +5,17 @@ header {
 body {
     font-size: 18;
     font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 footer {
-    color: rgb(247, 29, 255);
+    font-size: 15;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(232, 8, 8);;
+}
+
+nav {
+    font-size: 13;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(96, 10, 255);;
 }
